@@ -3,3 +3,9 @@
 /* Note: an asteroid image is included in this repo.
 Feel free to use it if you like. */
 
+.circle{
+  cx: 15;
+  cy: 15;
+  r: 22;
+  fill: black;
+}
